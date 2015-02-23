@@ -4,3 +4,5 @@ My favorite codeschool path is Ruby.
 Deadly Skills
 *Git
 *Ruby
+*Killing history using git rebase
+
